@@ -9,6 +9,3 @@ collections later on.
 [mulle-c](//github.com/mulle-c). 
 
 The [MulleFoundation](https://MulleFoundation.github.io) is based on *mulle-core*.
-
-The mulle-core library collection is written for C11 but contains a fallback
-atomic library for non-fully conformant C11 systems.
