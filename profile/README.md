@@ -1,7 +1,7 @@
 # mulle-core
 
 *mulle-core* provides functionality that is outside of the C standard libraries.
-These libraries are not strictly concerned with concurrency like mulle-concurrent is,
+These libraries are not strictly concerned with concurrency like *mulle-concurrent* is,
 but may use features of mulle-concurrent. So *mulle-core* is a grabbag of libraries, that
 is set to grow and that might get reorganized into more topical library 
 collections later on.
