@@ -1,5 +1,3 @@
-# mulle-core
-
 The scope of the github organization *mulle-core* is: 
 
 * platform specific functionality that is outside of the C standard libraries offers (e.g. mulle-mmap)
