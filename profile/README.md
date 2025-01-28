@@ -9,7 +9,7 @@ The library [**mulle-core**](https://github.com/mulle-core/mulle-core) is an ama
 
 | Constituent                                  | Description
 |----------------------------------------------|-----------------------
-| mulle-c |
+| mulle-c 
 | [mulle-allocator](https://github.com/mulle-c/mulle-allocator) | 🔄 Flexible C memory allocation scheme
 | [mulle-buffer](https://github.com/mulle-c/mulle-buffer) | ↗️ A growable C char array and also a stream
 | [mulle-c11](https://github.com/mulle-c/mulle-c11) | 🔀 Cross-platform C compiler glue (and some cpp conveniences)
