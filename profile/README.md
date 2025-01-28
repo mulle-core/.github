@@ -24,13 +24,14 @@ The library [**mulle-core**](https://github.com/mulle-core/mulle-core) is an ama
 | [mulle-url](https://github.com/mulle-c/mulle-url) | 🈷️ Support for URL parsing
 | [mulle-utf](https://github.com/mulle-c/mulle-utf) | 🔤 UTF8-16-32 analysis and manipulation library
 | [mulle-vararg](https://github.com/mulle-c/mulle-vararg) | ⏪ Access variable arguments in struct layout fashion in C
-| [mintomic](https://github.com/mulle-concurrent/mintomic) | For more information, see [the documentation](http://mintomic.github.io/) or the accompanying blog post, [Introducing Mintomic](http://preshing.com/20130505/introducing-mintomic-a-small-portable-lock-free-api).
+| &nbsp; |
 | [mulle-aba](https://github.com/mulle-concurrent/mulle-aba) | 🚮 A lock-free, cross-platform solution to the ABA problem
 | [mulle-concurrent](https://github.com/mulle-concurrent/mulle-concurrent) | 📶 A lock- and wait-free hashtable (and an array too), written in C
 | [mulle-fifo](https://github.com/mulle-concurrent/mulle-fifo) | 🐍 mulle-fifo fixed sized producer/consumer FIFOs holding `void *`
 | [mulle-linkedlist](https://github.com/mulle-concurrent/mulle-linkedlist) | 🔂 mulle-linkedlist a wait and lock-free linked list
 | [mulle-multififo](https://github.com/mulle-concurrent/mulle-multififo) | 🐛 mulle-multififo multi-producer/multi-consumer FIFO holding `void *`
 | [mulle-thread](https://github.com/mulle-concurrent/mulle-thread) | 🔠 Cross-platform thread/mutex/tss/atomic operations in C
+| &nbsp; |
 | [mulle-dlfcn](https://github.com/mulle-core/mulle-dlfcn) | ♿️ Shared library helper
 | [mulle-fprintf](https://github.com/mulle-core/mulle-fprintf) | 🔢 mulle-fprintf marries mulle-sprintf to stdio.h
 | [mulle-mmap](https://github.com/mulle-core/mulle-mmap) | 🇧🇿 Memory mapped file access
