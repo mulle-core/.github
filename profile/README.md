@@ -1,11 +1,12 @@
 # mulle-core
 
-In terms of scope the github orgnaization *mulle-core* provides 
+The scope of the github organization *mulle-core* is: 
 
 * platform specific functionality that is outside of the C standard libraries offers (e.g. mulle-mmap)
 * code that is a fusion of *mulle-c* and *mulle-concurrent*, but topically outside of the scope of *mulle-concurrent*, (e.g. mulle-fprintf)
 
-The library [**mulle-core**](https://github.com/mulle-core/mulle-core) is an amalgamation of the following libraries:
+The main library [**mulle-core**](https://github.com/mulle-core/mulle-core) is a one library, one header solution,
+that amalgamates the following libraries:
 
 | mulle-c Library                              | Description
 |----------------------------------------------|-----------------------
