@@ -11,7 +11,6 @@ that amalgamates the following libraries:
 | [mulle-allocator](https://github.com/mulle-c/mulle-allocator) | 🔄 Flexible C memory allocation scheme
 | [mulle-buffer](https://github.com/mulle-c/mulle-buffer) | ↗️ A growable C char array and also a stream
 | [mulle-c11](https://github.com/mulle-c/mulle-c11) | 🔀 Cross-platform C compiler glue (and some cpp conveniences)
-| [mulle-container-debug](https://github.com/mulle-c/mulle-container-debug) | 🛄 Debugging support for mulle-container
 | [mulle-container](https://github.com/mulle-c/mulle-container) | 🛄 Arrays, hashtables and a queue
 | [mulle-data](https://github.com/mulle-c/mulle-data) | #️⃣ A collection of hash functions
 | [mulle-http](https://github.com/mulle-c/mulle-http) | 🈚 http URL parser
@@ -35,6 +34,7 @@ that amalgamates the following libraries:
 
 | mulle-core Library                          | Description
 |----------------------------------------------|-----------------------
+| [mulle-container-debug](https://github.com/mulle-core/mulle-container-debug) | 🛄 Debugging support for mulle-container
 | [mulle-dlfcn](https://github.com/mulle-core/mulle-dlfcn) | ♿️ Shared library helper
 | [mulle-fprintf](https://github.com/mulle-core/mulle-fprintf) | 🔢 mulle-fprintf marries mulle-sprintf to stdio.h
 | [mulle-mmap](https://github.com/mulle-core/mulle-mmap) | 🇧🇿 Memory mapped file access
