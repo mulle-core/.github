@@ -36,8 +36,10 @@ that amalgamates the following libraries:
 |----------------------------------------------|-----------------------
 | [mulle-container-debug](https://github.com/mulle-core/mulle-container-debug) | 🛄 Debugging support for mulle-container
 | [mulle-dlfcn](https://github.com/mulle-core/mulle-dlfcn) | ♿️ Shared library helper
+| [mulle-dtostr](https://github.com/mulle-core/mulle-dtostr) | 🧶 Double to string conversion 
 | [mulle-fprintf](https://github.com/mulle-core/mulle-fprintf) | 🔢 mulle-fprintf marries mulle-sprintf to stdio.h
 | [mulle-mmap](https://github.com/mulle-core/mulle-mmap) | 🇧🇿 Memory mapped file access
+| [mulle-rbtree-debug](https://github.com/mulle-core/mulle-rbtree-debug) | 🍫 mulle-rbtree-debug debugs code for mulle-rbtree
 | [mulle-sprintf](https://github.com/mulle-core/mulle-sprintf) | 🔢 An extensible sprintf function supporting stdarg and mulle-vararg
 | [mulle-stacktrace](https://github.com/mulle-core/mulle-stacktrace) | 👣 Stracktrace support for various OS
 | [mulle-time](https://github.com/mulle-core/mulle-time) | 🕕 Simple time types with arithmetic on timespec and timeval
