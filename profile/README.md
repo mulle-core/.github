@@ -35,7 +35,6 @@ that amalgamates the following libraries:
 | mulle-core Library                          | Description
 |----------------------------------------------|-----------------------
 | [mulle-container-debug](https://github.com/mulle-core/mulle-container-debug) | 🛄 Debugging support for mulle-container
-| [mulle-dlfcn](https://github.com/mulle-core/mulle-dlfcn) | ♿️ Shared library helper
 | [mulle-dtostr](https://github.com/mulle-core/mulle-dtostr) | 🧶 Double to string conversion 
 | [mulle-fprintf](https://github.com/mulle-core/mulle-fprintf) | 🔢 mulle-fprintf marries mulle-sprintf to stdio.h
 | [mulle-mmap](https://github.com/mulle-core/mulle-mmap) | 🇧🇿 Memory mapped file access
@@ -44,6 +43,13 @@ that amalgamates the following libraries:
 | [mulle-stacktrace](https://github.com/mulle-core/mulle-stacktrace) | 👣 Stracktrace support for various OS
 | [mulle-time](https://github.com/mulle-core/mulle-time) | 🕕 Simple time types with arithmetic on timespec and timeval
 
+A secondary support library [**mulle-core-all-load**](https://github.com/mulle-core/mulle-core-all-load) amalgamates the following libraries:
+| mulle-core Library                          | Description
+|----------------------------------------------|-----------------------
+| [mulle-dlfcn](https://github.com/mulle-core/mulle-dlfcn) | ♿️ Shared library helper
+| [mulle-atinit](https://github.com/mulle-core/mulle-atinit) | 🤱🏼 Compatibility library for deterministic initializers 
+| [mulle-atexit](https://github.com/mulle-core/mulle-atexit) | 👼 Compatibility library to fix deficient atexit implementations 
+| [mulle-stacktrace](https://github.com/mulle-core/mulle-stacktrace) | 👣 Stracktrace support for various OS 
 
 *mulle-core* is based on [mulle-concurrent](//github.com/mulle-concurrent) and 
 [mulle-c](//github.com/mulle-c). 
